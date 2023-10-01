@@ -9,6 +9,8 @@ A passionate software engineer from India
 # 📊 Stats:
 ![Rohith Stats](https://github-readme-streak-stats.herokuapp.com/?user=rohithDhoodhipala&theme=dracula&hide_border=false)<br/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithDhoodhipala&label=Profile%20views&color=0e75b6&style=flat" alt="rohithDhoodhipala" /> </p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohith_333) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohithCodes) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rohithTweets33) 
