@@ -1,4 +1,3 @@
-![Header](./github-header-image.png)
 
 # 💫 About Me:
 A passionate software engineer from India
